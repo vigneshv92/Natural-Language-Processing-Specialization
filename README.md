@@ -13,6 +13,7 @@
 * Feature extraction
 * Vocabulary creation
 * Supervised learning
+* Visualising Tweets
 
 ## Week 2
 
