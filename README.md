@@ -35,6 +35,21 @@
 * Vocabulary creation
 * Supervised learning
 
+## Week 3
+
+### Vector Space Models
+
+#### Learning Objectives
+
+* Covariance matrices
+* Dimensionality reduction
+* Principal component analysis
+* Cosine similarity
+* Euclidean distance
+* Co-occurrence matrices
+* Vector representations
+* Vector space models
+
 ##### Additional Resources: 
 
 * [Notebooks](https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
