@@ -56,6 +56,20 @@ Vector space models capture semantic meaning and relationships between words. Yo
 * Vector representations
 * Vector space models
 
+## Week 4
+
+#### Learning Objectives
+
+* Gradient descent
+* Approximate nearest neighbors
+* Locality sensitive hashing
+* Hash functions
+* Hash tables
+* K nearest neighbors
+* Document search
+* Machine translation
+* Frobenius norm
+
 ##### Additional Resources: 
 
 * [Notebooks](https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
