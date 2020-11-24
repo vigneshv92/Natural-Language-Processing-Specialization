@@ -8,7 +8,7 @@
 
 * Sentiment analysis
 * Logistic regression
-* Data pre-processing
+* [Data pre-processing](Natural Language Processing with Classification and Vector Spaces/Week 1/NLP_C1_W1_lecture_nb_01.ipynb)
 * Calculating word frequencies
 * Feature extraction
 * Vocabulary creation
