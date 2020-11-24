@@ -15,6 +15,10 @@
 * Supervised learning
 * Visualising Tweets
 
+#### Assignment 1:
+
+[Sentiment Analysis with Logistic Regression](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1_W1_Assignment.ipynb)
+
 ## Week 2
 
 ### Sentiment Analysis with Naïve Bayes
