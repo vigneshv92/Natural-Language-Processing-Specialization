@@ -39,6 +39,10 @@ Learn the theory behind Bayes' rule for conditional probabilities, then apply it
 * Vocabulary creation
 * Supervised learning
 
+#### Assignment 2:
+
+[]()
+
 ## Week 3
 
 ### Vector Space Models
