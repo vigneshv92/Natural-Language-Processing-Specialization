@@ -74,6 +74,10 @@ Vector space models capture semantic meaning and relationships between words. Yo
 * Machine translation
 * Frobenius norm
 
+#### Labs
+
+* [Rotation Matrices in R2 / Hash Tables]()
+
 ##### Additional Resources: 
 
 * [Notebooks](https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
