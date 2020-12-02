@@ -1,5 +1,7 @@
 # Natural Language Processing with Probabilistic Models
 
+## Week 2
+
 ## Learning Objectives
 
 * Conditional probabilities
