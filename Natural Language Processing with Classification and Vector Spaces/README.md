@@ -1,3 +1,5 @@
+# NLP with Classification and Vector Spaces
+
 ## Week 1: 
 
 ### Sentiment Analysis with Logistic Regression
