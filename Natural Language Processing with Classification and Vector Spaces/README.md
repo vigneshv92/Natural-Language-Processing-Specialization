@@ -11,15 +11,15 @@ Learn to extract features from text into numerical vectors, then build a binary 
 * Sentiment analysis
 * Logistic regression
 * [Data pre-processing](Week%201/NLP_C1_W1_lecture_nb_01.ipynb)
-* [Calculating word frequencies](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/NLP_C1_W1_lecture_nb_02.ipynb)
+* [Calculating word frequencies](Week%201/NLP_C1_W1_lecture_nb_02.ipynb)
 * Feature extraction
 * Vocabulary creation
 * Supervised learning
-* [Visualising Tweets](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/NLP_C1_W1_lecture_nb_03.ipynb)
+* [Visualising Tweets](Week%201/NLP_C1_W1_lecture_nb_03.ipynb)
 
 #### Assignment 1:
 
-[Sentiment Analysis with Logistic Regression](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1_W1_Assignment.ipynb)
+[Sentiment Analysis with Logistic Regression](Week%201/C1_W1_Assignment.ipynb)
 
 ## Week 2
 
