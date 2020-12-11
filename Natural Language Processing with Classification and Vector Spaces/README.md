@@ -41,7 +41,7 @@ Learn the theory behind Bayes' rule for conditional probabilities, then apply it
 
 #### Assignment 2:
 
-[Sentiment Analysis with Naïve Bayes](https://github.com/vigneshv92/Natural-Language-Specialization/blob/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week3/C1_W3_Assignment.ipynb)
+[Sentiment Analysis with Naïve Bayes](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week3/C1_W3_Assignment.ipynb)
 
 ## Week 3
 
@@ -76,4 +76,4 @@ Vector space models capture semantic meaning and relationships between words. Yo
 
 #### Labs
 
-* [Rotation Matrices in R2 / Hash Tables](https://github.com/vigneshv92/Natural-Language-Specialization/blob/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4/NLP_C1_W4_lecture_nb_01.ipynb)
+* [Rotation Matrices in R2 / Hash Tables](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4/NLP_C1_W4_lecture_nb_01.ipynb)
