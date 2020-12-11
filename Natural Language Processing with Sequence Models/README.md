@@ -4,6 +4,7 @@
 
 * [Trax — Deep Learning with Clear Code and Speed](https://github.com/google/trax)
 * [Trax - Walkthrough](https://trax-ml.readthedocs.io/en/latest/notebooks/trax_intro.html#3.-Walkthrough)
+* [Lecture Notebook: Introduction to Trax]()
 
 ### Week 2
 
