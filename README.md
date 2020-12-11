@@ -13,7 +13,7 @@
 
 ---
 
-* [Natural Language Processing with Sequence Models]()
+* [Natural Language Processing with Sequence Models](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/tree/master/Natural%20Language%20Processing%20with%20Sequence%20Models)
 
 > Use recurrent neural networks, LSTMs, GRUs & Siamese network in TensorFlow & Trax for sentiment analysis, text generation & named entity recognition
 
