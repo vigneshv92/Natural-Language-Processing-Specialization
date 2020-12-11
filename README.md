@@ -13,7 +13,7 @@
 
 ---
 
-* []()
+* [Natural Language Processing with Sequence Models]()
 
 > Use recurrent neural networks, LSTMs, GRUs & Siamese network in TensorFlow & Trax for sentiment analysis, text generation & named entity recognition
 
