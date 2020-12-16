@@ -23,3 +23,5 @@
 
 * [Notebooks](https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 * [BERT Explained](https://nlp.stanford.edu/seminar/details/jdevlin.pdf)
+* [NLP Seminars by Stanford NLP](https://nlp.stanford.edu/seminar)
+* [NLP Seminar Slides](https://nlp.stanford.edu/seminar/details/)
