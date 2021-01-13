@@ -17,7 +17,11 @@ Assignment:
 
 * [Sentiment with Deep Neural Networks](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/Sentiment%20with%20Deep%20Neural%20Networks/C3_W1_Assignment.ipynb)
 
-### Week 2
+### N-grams vs Sequence Models (Week 2)
+
+* [Lecture Notebook: Hidden State Activation]()
+
+* []()
 
 ### Week 3
 
