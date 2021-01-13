@@ -25,4 +25,7 @@ Assignment:
 
 ### Week 3
 
+* [Lecture Notebook: Vanishing Gradients]()
+* []()
+
 ### Week 4
