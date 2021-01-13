@@ -26,6 +26,6 @@ Assignment:
 ### Week 3
 
 * [Lecture Notebook: Vanishing Gradients]()
-* []()
+* [Programming Assignment: Named Entity Recognition (NER)]()
 
 ### Week 4
