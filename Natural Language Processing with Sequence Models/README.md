@@ -40,4 +40,4 @@ Assignment:
 * [Lecture Notebook: Modified Triplet Loss]()
 * [Evaluate a Siamese Model]()
 
-* [Assignment]()
+* [Programming Assignment: Question duplicates]()
