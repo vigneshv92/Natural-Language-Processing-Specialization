@@ -20,13 +20,19 @@ Assignment:
 ### N-grams vs Sequence Models (Week 2)
 
 * [Lecture Notebook: Hidden State Activation]()
+* [Working with JAX NumPy and Calculating Perplexity]()
+* [Vanilla RNNs, GRUs and the scan function]()
+* [Creating a GRU model using Trax]()
 
-* []()
+Assignment:
+
+* [Programming Assignment: Deep N-grams]()
 
 ### Week 3
 
 * [Lecture Notebook: Vanishing Gradients]()
 * [Programming Assignment: Named Entity Recognition (NER)]()
+
 
 ### Siamese Networks (Week 4)
 
