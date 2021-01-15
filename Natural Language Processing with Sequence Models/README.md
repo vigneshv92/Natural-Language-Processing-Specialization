@@ -28,4 +28,10 @@ Assignment:
 * [Lecture Notebook: Vanishing Gradients]()
 * [Programming Assignment: Named Entity Recognition (NER)]()
 
-### Week 4
+### Siamese Networks (Week 4)
+
+* [Creating a Siamese Model using Trax]()
+* [Lecture Notebook: Modified Triplet Loss]()
+* [Evaluate a Siamese Model]()
+
+* [Assignment]()
