@@ -20,11 +20,10 @@
 
 * [Programming Assignment: Deep N-grams]()
 
-### Week 3
+### LSTMs and Named Entity Recognition (Week 3)
 
 * [Lecture Notebook: Vanishing Gradients]()
 * [Programming Assignment: Named Entity Recognition (NER)]()
-
 
 ### Siamese Networks (Week 4)
 
