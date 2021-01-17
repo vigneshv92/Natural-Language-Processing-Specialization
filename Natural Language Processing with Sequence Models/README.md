@@ -22,7 +22,7 @@
 ### LSTMs and Named Entity Recognition (Week 3)
 
 * [Lecture Notebook: Vanishing Gradients]()
-* [Programming Assignment: Named Entity Recognition (NER)]()
+* [Programming Assignment: Named Entity Recognition (NER)](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%203/Assignment/C3_W3_Assignment.ipynb)
 
 ### Siamese Networks (Week 4)
 
