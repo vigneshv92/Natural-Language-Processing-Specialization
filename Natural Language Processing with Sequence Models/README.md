@@ -16,7 +16,7 @@
 * [Lecture Notebook: Hidden State Activation]()
 * [Working with JAX NumPy and Calculating Perplexity]()
 * [Vanilla RNNs, GRUs and the scan function]()
-* [Creating a GRU model using Trax]()
+* [Creating a GRU model using Trax](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/Assignment/C3_W2_Assignment.ipynb)
 
 * [Programming Assignment: Deep N-grams]()
 
