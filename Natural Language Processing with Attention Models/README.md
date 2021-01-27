@@ -1,4 +1,4 @@
-## NLP with Attention Models
+### NLP with Attention Models
 
 ### Neural Machine Translation (Week 1)
 
