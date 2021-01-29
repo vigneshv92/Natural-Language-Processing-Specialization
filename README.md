@@ -27,6 +27,6 @@
 
 * [Notebooks](https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 * [BERT Explained](https://nlp.stanford.edu/seminar/details/jdevlin.pdf)
-* [Emotion & Sarcasm Detection in NLP](https://colab.research.google.com/drive/1YOfq9CRXGZb50MuGyqP_kcfPw1cfLX74?usp=sharing)
+* [Emotion & Sarcasm Detection](https://colab.research.google.com/drive/1YOfq9CRXGZb50MuGyqP_kcfPw1cfLX74?usp=sharing)
 * [NLP Seminars by Stanford NLP](https://nlp.stanford.edu/seminar)
 * [NLP Seminar Slides](https://nlp.stanford.edu/seminar/details/)
