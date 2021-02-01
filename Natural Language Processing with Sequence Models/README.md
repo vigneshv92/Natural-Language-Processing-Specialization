@@ -7,8 +7,6 @@
 * [Lecture Notebook: Introduction to Trax](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/Labs/NLP_C3_W1_lecture_nb_01_trax_intro.ipynb)
 * [Classes and Subclasses](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/Labs/NLP_C3_W1_lecture_nb_02_classes.ipynb)
 * [Data Generators](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/Labs/NLP_C3_W1_lecture_nb_03_data_generatos.ipynb)
-
-
 * [Programming Assignment: Sentiment Analysis with Deep Neural Networks](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/Sentiment%20with%20Deep%20Neural%20Networks/C3_W1_Assignment.ipynb)
 
 ### N-grams vs Sequence Models (Week 2)
