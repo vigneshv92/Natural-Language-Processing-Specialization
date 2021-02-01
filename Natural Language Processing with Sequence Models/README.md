@@ -29,5 +29,4 @@
 * [Creating a Siamese Model using Trax]()
 * [Lecture Notebook: Modified Triplet Loss]()
 * [Evaluate a Siamese Model]()
-
 * [Programming Assignment: Question duplicates](https://github.com/vigneshv92/Natural-Language-Processing-Specialization/blob/master/Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/Assignment/C3_W4_Assignment.ipynb)
