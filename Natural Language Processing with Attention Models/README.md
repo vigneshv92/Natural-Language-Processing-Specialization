@@ -25,3 +25,14 @@ Define three main matrices in attention
 Interpret the math behind scaled dot product attention, causal attention, and multi-head attention
 Use articles and their summaries to create input features for training a text summarizer
 Build a Transformer decoder model (GPT-2)
+
+### Question Answering
+
+## Learning Objectives
+
+Gain intuition for how transfer learning works in the context of NLP
+Identify two approaches to transfer learning
+Discuss the evolution of language models from CBOW to T5 and Bert
+Fine-tune BERT on a dataset
+Implement context-based question answering with T5
+Interpret the GLUE benchmark
