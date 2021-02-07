@@ -30,12 +30,12 @@ Compare RNNs and other sequential models to the more modern Transformer architec
 
 ### Learning Objectives
 
-Gain intuition for how transfer learning works in the context of NLP
-Identify two approaches to transfer learning
-Discuss the evolution of language models from CBOW to T5 and Bert
-Fine-tune BERT on a dataset
-Implement context-based question answering with T5
-Interpret the GLUE benchmark
+* Gain intuition for how transfer learning works in the context of NLP
+* Identify two approaches to transfer learning
+* Discuss the evolution of language models from CBOW to T5 and Bert
+* Fine-tune BERT on a dataset
+* Implement context-based question answering with T5
+* Interpret the GLUE benchmark
 
 ### Chatbot
 
