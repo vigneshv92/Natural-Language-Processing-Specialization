@@ -26,7 +26,7 @@ Compare RNNs and other sequential models to the more modern Transformer architec
 * Use articles and their summaries to create input features for training a text summarizer
 * Build a Transformer decoder model (GPT-2)
 
-### Question Answering
+### Question Answering (Week 3)
 
 ### Learning Objectives
 
@@ -37,7 +37,7 @@ Compare RNNs and other sequential models to the more modern Transformer architec
 * Implement context-based question answering with T5
 * Interpret the GLUE benchmark
 
-### Chatbot
+### Chatbot (Week 4)
 
 ### Learning Objectives
 
