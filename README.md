@@ -32,3 +32,4 @@
 * [Emotion Recognition / Sarcasm Detection](https://colab.research.google.com/drive/1YOfq9CRXGZb50MuGyqP_kcfPw1cfLX74?usp=sharing)
 * [NLP Seminars by Stanford NLP](https://nlp.stanford.edu/seminar)
 * [NLP Seminar Slides](https://nlp.stanford.edu/seminar/details/)
+* [Advanced NLP with TensorFlow 2](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)
