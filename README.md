@@ -28,6 +28,7 @@
 
 ## Additional Resources: 
 
+* [A Complete Guide to Natural Language Processing](https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=m4ml-launch&utm_medium=email&utm_source=year-end-hubspot)
 * [Notebooks](https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 * [BERT Explained](https://nlp.stanford.edu/seminar/details/jdevlin.pdf)
 * [Emotion Recognition / Sarcasm Detection](https://colab.research.google.com/drive/1YOfq9CRXGZb50MuGyqP_kcfPw1cfLX74?usp=sharing)
